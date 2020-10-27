@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
+    <p>yfiweuhfiewhfiewfhuihi</p>
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
