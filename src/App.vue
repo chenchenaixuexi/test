@@ -3,7 +3,25 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
+<<<<<<< HEAD
     <p>我是良哥哥</p>
+=======
+<<<<<<< HEAD
+    <p>eqwee</p>
+    <p>冯涛</p>
+    <p>冯涛</p>
+=======
+    <p>陈良</p>
+<<<<<<< HEAD
+>>>>>>> 05a7746bebef51427077380a9249a70309717ac5
+=======
+    <p>伍雪雪</p>
+<<<<<<< HEAD
+>>>>>>> b6dafdd2ac11cd3ad87143495571cc22b0c52ca2
+=======
+    <p>fyg</p>
+>>>>>>> 935adf46f2902fb0a55caa4726d5ccfe9bff1c8d
+>>>>>>> origin
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
