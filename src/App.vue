@@ -4,9 +4,13 @@
     <router-link to=""></router-link>
     <router-view/>
     <h1>成都格智.薇朵科技</h1>
+    <p>测试冲突</p>
+    <h1>格智.薇朵科技</h1>
     <p>eqwee</p>
     <p>冯涛</p>
     <p>冯涛</p>
+     <span>代码协作</span>
+
     <p>陈良</p>
     <p>伍雪雪</p>
 <p>卢良</p>
