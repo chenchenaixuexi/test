@@ -3,24 +3,6 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
-    <p>罗国平</p>
-    <p>杨卫东</p>
-    <p>JackeyLove</p>
-    <p>测试冲突</p>
-    <p>eqwee</p>
-    <p>冯涛</p>
-    <p>冯涛</p>
-     <span>代码协作</span>
-    <p>陈良</p>
-    <p>伍雪雪</p>
-<p>卢良</p>
-    <span>代码协作</span>
-    <h1>我是谁</h1>
-    <p>陈良</p>
-    <p>伍雪雪</p>
-    <p>fyg</p>
-    <div>dev新开发功能</div>
-    <div>何翰锋</div>
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
