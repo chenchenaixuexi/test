@@ -4,6 +4,7 @@
     <router-link to=""></router-link>
     <router-view/>
     <p>eqwee</p>
+    <p>hgsahfgadskh</p>
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
