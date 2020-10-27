@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
+    <h2>杨卫东</h2>
     <p>测试冲突</p>
     <h1>格智.薇朵科技</h1>
     <p>eqwee</p>
