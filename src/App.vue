@@ -3,12 +3,10 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
-<<<<<<< HEAD
     <p>eqwee</p>
-    <h1>zs提交</h1>
+    <p>曾帅</p>
     <p>陈良</p>
     <p>伍雪雪</p>
-=======
     <p>杨卫东</p>
     <p>JackeyLove</p>
     <p>测试冲突</p>
@@ -25,7 +23,6 @@
     <p>陈良</p>
     <p>伍雪雪</p>
     <p>fyg</p>
->>>>>>> 95d899c158dc7afe4d188eb0e3da7cfae7a32ad0
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
