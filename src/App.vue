@@ -3,28 +3,10 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <p>eqwee</p>
-<<<<<<< HEAD
     <h1>zs提交</h1>
-=======
-    <p>冯涛</p>
-    <p>冯涛</p>
-    <span>代码协作</span>
->>>>>>> 1081d41c75090a0ce799ee0ec039584d203da325
-=======
     <p>陈良</p>
     <p>伍雪雪</p>
->>>>>>> b6dafdd2ac11cd3ad87143495571cc22b0c52ca2
-=======
-    <p>eqwee</p>
-    <p>冯涛</p>
-    <p>冯涛</p>
-    <p>陈良</p>
-    <p>伍雪雪</p>
-    <p>fyg</p>
->>>>>>> af88a72b972cce08e05a00848f178b2212a0c23f
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
