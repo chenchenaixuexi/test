@@ -3,8 +3,12 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
-    <h1>格智.薇朵</h1>
+    <h1>格智.薇朵科技</h1>
+    <p>eqwee</p>
+    <p>冯涛</p>
+    <p>冯涛</p>
     <p>陈良</p>
+    <p>伍雪雪</p>
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
