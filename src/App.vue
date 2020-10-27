@@ -14,12 +14,7 @@
     <p>陈良</p>
     <p>伍雪雪</p>
     <p>fyg</p>
-<<<<<<< HEAD
-
-=======
->>>>>>> 935adf46f2902fb0a55caa4726d5ccfe9bff1c8d
->>>>>>> origin
->>>>>>> 7b1f4c60a4814341e9df817135654113c9f32342
+    <div>test change</div>
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
