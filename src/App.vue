@@ -4,6 +4,7 @@
     <router-link to=""></router-link>
     <router-view/>
     <p>陈良</p>
+    <p>伍雪雪</p>
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
