@@ -5,6 +5,8 @@
     <router-view/>
     <p>测试冲突</p>
     <h1>格智.薇朵科技</h1>
+    <div>dadadadad</div>
+    <h2>非常棒</h2>
     <p>eqwee</p>
     <p>冯涛</p>
     <p>冯涛</p>
