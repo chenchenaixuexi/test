@@ -8,7 +8,9 @@
     <p>eqwee</p>
     <p>陈良</p>
     <p>伍雪雪</p>
-
+    <p>
+      <code>console.log('hello world')</code>
+    </p>
     <p>我是良哥哥</p>
     <p>曾帅</p>
     <p>杨卫东</p>
