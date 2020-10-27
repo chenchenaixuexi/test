@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
+    <h1>格智.薇朵</h1>
     <p>陈良</p>
     <!-- <main></main> -->
     <!-- <button ></button> -->
