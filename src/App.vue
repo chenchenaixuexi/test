@@ -3,9 +3,8 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
-    <h1>成都格智.薇朵科技</h1>
+    <p>杨卫东</p>
     <p>测试冲突</p>
-    <h1>格智.薇朵科技</h1>
     <p>eqwee</p>
     <p>冯涛</p>
     <p>冯涛</p>
