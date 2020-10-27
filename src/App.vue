@@ -3,7 +3,7 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
-    <p>eqwee</p>
+    <p>陈良</p>
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
