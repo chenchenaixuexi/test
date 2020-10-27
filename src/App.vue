@@ -4,12 +4,21 @@
     <router-link to=""></router-link>
     <router-view/>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <p>eqwee</p>
     <h1>zs提交</h1>
 =======
     <p>陈良</p>
     <p>伍雪雪</p>
 >>>>>>> b6dafdd2ac11cd3ad87143495571cc22b0c52ca2
+=======
+    <p>eqwee</p>
+    <p>冯涛</p>
+    <p>冯涛</p>
+    <p>陈良</p>
+    <p>伍雪雪</p>
+    <p>fyg</p>
+>>>>>>> af88a72b972cce08e05a00848f178b2212a0c23f
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
