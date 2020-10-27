@@ -3,8 +3,12 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
+<<<<<<< HEAD
     <p>eqwee</p>
     <p>冯涛</p>
+=======
+    <p>陈良</p>
+>>>>>>> 05a7746bebef51427077380a9249a70309717ac5
     <!-- <main></main> -->
     <!-- <button ></button> -->
   </div>
