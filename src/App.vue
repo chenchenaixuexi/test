@@ -4,6 +4,7 @@
     <router-link to=""></router-link>
     <router-view/>
     <p>杨卫东</p>
+    <p>JackeyLove</p>
     <p>测试冲突</p>
     <p>eqwee</p>
     <p>冯涛</p>
@@ -13,6 +14,10 @@
     <p>陈良</p>
     <p>伍雪雪</p>
 <p>卢良</p>
+    <span>代码协作</span>
+    <h1>我是谁</h1>
+    <p>陈良</p>
+    <p>伍雪雪</p>
     <p>fyg</p>
     <!-- <main></main> -->
     <!-- <button ></button> -->
