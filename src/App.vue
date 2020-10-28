@@ -3,7 +3,6 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
-    <div>修复bug</div>
     <div>tag标签</div>
 
     <p>罗国平11111</p>
