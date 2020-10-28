@@ -2,7 +2,7 @@ import axios from 'axios'
 import { Message } from 'element-ui';
 // console.log(process.env.BASE_API);
 // create an axios instance
-const request = axios.create({
+const service = axios.create({
   // baseURL: process.env.NODE_ENV === 'development' ? '/api' : process.env.BASE_API, // url = base url + request url
   baseURL: process.env.BASE_API, // url = base url + request url
   // withCredentials: true, // send cookies when cross-domain requests
@@ -62,5 +62,5 @@ service.interceptors.response.use(
   }
 )
 
-export default request
+export default service
 
