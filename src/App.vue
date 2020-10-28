@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <router-link to=""></router-link>
     <router-view/>
+    <div>stash 储存</div>
     <p>杨卫东</p>
     <p>JackeyLove</p>
     <p>测试冲突</p>
